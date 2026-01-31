@@ -34,10 +34,10 @@ Overall, the analysis shows that Rurouni Kenshin DVD-BOX Special Ending has the 
 
 <p align="center">
 Anime Table (Cleaned)<br/>
-<img width="1200" height="633" alt="1" src="https://github.com/user-attachments/assets/9f8ecbfb-db3c-4aa3-97fa-c6b1c63fab01" />
+<img width="1200" height="633" alt="1" src="https://github.com/user-attachments/assets/4c765943-769a-4981-8899-02e18f0f6568" />
 <p align="center">
 Studio Performance Query<br/>
-<img width="1200" height="633" alt="2" src="https://github.com/user-attachments/assets/373cce77-b068-454e-9988-a46ca753af57" />
+<img width="1200" height="633" alt="2" src="https://github.com/user-attachments/assets/de7ea3d7-6222-4438-9ca2-5b286eedd350" />
 <p align="center">
 Newer Vs. Older Anime Performance Query<br/>
-<img width="1200" height="633" alt="3" src="https://github.com/user-attachments/assets/264f1924-7491-4c57-9289-860fff0395f2" />
+<img width="1200" height="633" alt="3" src="https://github.com/user-attachments/assets/ec994941-bc3b-40f4-b8e8-8808df5e4b67" />
