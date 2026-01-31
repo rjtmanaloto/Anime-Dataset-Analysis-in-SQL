@@ -40,4 +40,4 @@ Studio Performance Query<br/>
 <img width="1200" height="633" alt="2" src="https://github.com/user-attachments/assets/de7ea3d7-6222-4438-9ca2-5b286eedd350" />
 <p align="center">
 Newer Vs. Older Anime Performance Query<br/>
-<img width="1200" height="633" alt="3" src="https://github.com/user-attachments/assets/ec994941-bc3b-40f4-b8e8-8808df5e4b67" />
+<img width="1200" height="633" alt="3" src="https://github.com/user-attachments/assets/0a1bde07-ac77-4f6a-85b3-12ba9f73dacf" />
