@@ -30,7 +30,7 @@ Overall, the analysis shows that Rurouni Kenshin DVD-BOX Special Ending has the 
 <h2>Environments Used</h2>
 - <b>Windows 11</b>
 
-<h2>Anime Dataset Analysis in SQL Screenshots</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
 Anime Table (Cleaned)<br/>
