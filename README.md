@@ -4,7 +4,7 @@
 <h2>Goal</h2>
 Analyze and explore anime trends in popularity, rating/score, production studio, and airing date.
 
-<h2>Key Questions</h2>
+<h2>Questions</h2>
 
 1. Which anime have the highest rating/score?
 2. What is the average rating/score of the animes on the list?
