@@ -3,10 +3,9 @@
 
 <h2>Goal</h2>
 Analyze and explore anime trends in popularity, rating/score, production studio, and airing date.
-<br />
-<br />
 
-Key Questions:
+<h2>Key Questions</h2>
+
 1. Which anime have the highest rating/score?
 2. What is the average rating/score of the animes on the list?
 3. Is there a relationship between number of episodes and ratings/scores?
@@ -14,7 +13,6 @@ Key Questions:
 5. Do newer anime rated/scored better than older ones?
 
 <h2>Insights</h2>
-<br />
 
 1. The anime with the highest rating/score is 'Rurouni Kenshin DVD-BOX Special Ending'.
 2. The anime on the list have an average rating of 5.3.
