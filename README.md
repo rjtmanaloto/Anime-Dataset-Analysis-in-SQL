@@ -2,6 +2,7 @@
 
 
 <h2>Goal</h2>
+
 Analyze and explore anime trends in popularity, rating/score, production studio, and airing date.
 
 <h2>Questions</h2>
@@ -23,9 +24,11 @@ Analyze and explore anime trends in popularity, rating/score, production studio,
 Overall, the analysis shows that Rurouni Kenshin DVD-BOX Special Ending has the highest rating/score, the dataset averages a 5.3 rating/score, number of episodes does not mean higher rating/score, certain studios (Studio Deen, Eiken, TMS Entertainment, Gallop, and Studio Pierrot) produce the highest rated/scored animes, and newer animes rated/scored slightly better than older ones.
 
 <h2>Tools Used</h2>
+
 - <b>DB Browser for SQLite</b> 
 
 <h2>Environments Used</h2>
+
 - <b>Windows 11</b>
 
 <h2>Screenshots</h2>
